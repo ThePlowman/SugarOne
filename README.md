@@ -3,3 +3,6 @@ People with type 2 diabetes have problem keeping up with their blood glucose lev
 Edited by Charles
 
 This is a line that will conflict with Alok's -- Miguel
+Edited by Charles
+
+Just checking in to make my edit. (Alok)
